@@ -103,16 +103,19 @@ By the end of this module, participants will be able to:
 
 ## Contacts
 
-### Deploying AI (April 14 - April 30)
+### Deploying AI - Doctoral Certificate (June 2026)
 
 **Questions can be submitted to the _help_ channel on Slack**
 
 * Technical Facilitator: 
-  * [Rogelio Cuevas](https://www.linkedin.com/in/jcalderon/)
+  * [Jesús Calderón](https://www.linkedin.com/in/jcalderon/)
   
 * Learning Support: 
+
   * [Dmytro Bonislavskyi](https://www.linkedin.com/in/dmytro-bonislavskyi/)
-  * [Nakul Upadhya](https://www.linkedin.com/in/nakulupadhya/)
+  * [Sergii Khomych](https://www.linkedin.com/in/sergey-khomich-96350088/)
+  * [Shiraz Latif](https://www.linkedin.com/in/shiraz-latif/)
+  
   
 
 ## Delivery of the Learning Module
@@ -123,27 +126,28 @@ Participants are encouraged to engage actively during the learning module. The k
 
 # Schedule
 
-## Deploying AI (April 14 - April 30)
+## Deploying AI - Doctoral Certificate (June 2026)
 
 |Type |Date        |Topic                             |
 |-----|------------|----------------------------------|
-|Live| Apr. 14 | Introduction to AI Engineering|
-|Live| Apr. 15 | Introduction to Foundation Models |
-|Live| Apr. 16 | Evaluating Foundation Models |
-|Work| Apr. 17 | Work Period |
-|Deadline| Apr. 20 | Assignment 1 Due |
-|Live| Apr. 21 | Prompt Engineering |
-|Live| Apr. 22 | Retrieval Augmented Generation |
-|Live| Apr. 23 | Agents |
-|Work| Apr. 24 | Work Period |
-|Deadline| Apr. 27 | Assignment 2 Due |
-|Live| Apr. 29 | Case Study |
-|Live| Apr. 28 | Fine Tuning |
-|Live| Apr. 30 | Dataset Engineering |
-|Work| May. 1 | Work Period |
+|Live| June 17 | Introduction to AI Engineering|
+|Work| June 19 | Work Period |
+|Live| June 22 | Introduction to Foundation Models |
+|Live| June 24 | Evaluating Foundation Models |
+|Work| June 26 | Work Period |
+|Deadline| June 29 | Assignment 1 Due |
+|Live| July 3 | Prompt Engineering |
+|Live| July 6 | Retrieval Augmented Generation |
+|Live| July 8 | Agents |
+|Work| July 10 | Work Period |
+|Deadline| July 13 | Assignment 2 Due |
+|Live| July 13 | Fine Tuning |
+|Live| July 17 | Dataset Engineering |
+
 
 
 ### Requirements
+
 * Participants are not expected to have any coding experience; the learning content has been designed for beginners.
 * Participants are encouraged to ask questions, and collaborate with others to enhance their learning experience.
 * Participants must have a computer and an internet connection to participate in online activities.
