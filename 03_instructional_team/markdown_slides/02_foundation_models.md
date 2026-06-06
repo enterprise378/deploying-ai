@@ -32,6 +32,11 @@ $ echo "Data Sciences Institute"
 2. The Transformer architecture, built on self-attention, replaced RNNs and enabled parallelized training at scale.
 3. Post-training (SFT + preference fine-tuning) aligns foundation models to produce useful, safe, and well-formatted outputs.
 4. Model outputs are probabilistic: temperature, top-k, and top-p sampling control the creativity/consistency trade-off.
+
+---
+
+## Main Points (cont.)
+
 5. Hallucinations and inconsistencies are structural properties of probabilistic models, not simple bugs.
 6. Scaling laws (Chinchilla) show that parameters, training tokens, and compute must be balanced; more parameters alone is not sufficient.
 7. Training data quality and provenance directly determine model capabilities and failure modes.
@@ -839,6 +844,12 @@ Model inconsistencies happen in two scenarios:
 > Shoggoth is a potent metaphor that encapsulates one of the most bizarre facts about the A.I. world, which is that many of the people working on this technology are somewhat mystified by their own creations. They don't fully understand the inner workings of A.I. language models, how they acquire new abilities or why they behave unpredictably at times. They aren't totally sure if A.I. is going to be net-good or net-bad for the world. [(Roose, 2023)](https://www.nytimes.com/2023/05/30/technology/shoggoth-meme-ai.html)
 
 Many of the engineering efforts covered in this course exist precisely because we cannot fully explain or predict model behaviour.
+
+---
+
+## The Shoggoth
+
+![height:450px center](images/02_shoggoth.png)
 
 ---
 
